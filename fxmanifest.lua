@@ -15,9 +15,8 @@ files {
 	'html/css/style.css',
 }
 
-client_scripts {
-	'client/main.lua'
-}
+client_script 'client/main.lua'
+
 
 exports {
 	'DoShortHudText',
