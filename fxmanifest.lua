@@ -1,5 +1,5 @@
 fx_version 'bodacious'
-games { 'gta5' }
+game 'gta5'
 
 name 'Mythic Framework Notification System'
 author 'Alzar - https://github.com/Alzar'
