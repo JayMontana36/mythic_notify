@@ -1,4 +1,5 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'bodacious'
+game 'gta5'
 
 name 'Mythic Framework Notification System'
 author 'Alzar - https://github.com/Alzar'
@@ -14,9 +15,8 @@ files {
 	'html/css/style.css',
 }
 
-client_scripts {
-	'client/main.lua'
-}
+client_script 'client/main.lua'
+
 
 exports {
 	'DoShortHudText',
